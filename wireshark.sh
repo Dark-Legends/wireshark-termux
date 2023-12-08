@@ -116,7 +116,7 @@ termux
 echo -e '\n--------------------\n' >> "$ILOG"
 
 echo -e '=========\nCOMPLETED\n=========\n' >> "$ILOG"
-echo -e "\n${PI}[+] ${G}Logs Saved : "${Gold}$ILOG"
+echo -e "\n${PI}[+] ${G}Logs Saved : ${Gold}$ILOG"
 for ((i=1; i<=5; i++))
 do
 echo
