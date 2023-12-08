@@ -21,17 +21,18 @@ git clone https://github.com/Dark-Legends/wireshark-termux
 cd wireshark-termux
 ```
 ```bash
-chmod +x wireshark.sh
+chmod +x wireshark.sh && ./wireshark.sh 
 ```
-```bash
-./wireshark.sh
-```
+
+
 - And Install vnc-viwer link 👇
 - https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 
 ```bash
 ./wireshark
 ```
+
+![Screenshot](https://github.com/Dark-Legends/wireshark-termux/assets/142109781/5187d1df-5f49-4ff0-b345-546404620c05)
 
 - 🛑If You want more information Go Wireshark website🛑 👇 
 - https://www.wireshark.org/
