@@ -29,11 +29,8 @@ chmod +x wireshark.sh
 - And Install vnc-viwer link 👇
 - https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 
-OK 
-
-And then Run 👇
 ```bash
-./wireshark-server.sh
+./wireshark
 ```
 
 - 🛑If You want more information Go Wireshark website🛑 👇 
